@@ -1,0 +1,6 @@
+km=int(input("km"))
+i=100000
+print("cm:",km*i)       
+
+km5
+cm: 500000
