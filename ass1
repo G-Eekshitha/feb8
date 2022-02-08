@@ -6,6 +6,10 @@ print(bool(a>=b))
 print(bool(a<=b))
 print(bool(a==b))
 print(bool(a!=b))
+         OR
+a=int(input("enter a"))
+b=int(input("enter b"))
+print(bool(a<b),"\n",bool(a>b),"\n",bool(a>=b),"\n",bool(a<=b),"\n",bool(a==b),"\n",bool(a!=b))
 
 enter a5
 enter b3
